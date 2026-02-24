@@ -1,0 +1,11 @@
+pip install pandas numpy matplotlib yfinance tensorflow alpaca-trade-api backtrader
+numpy<2
+pandas>=1.4
+matplotlib>=3.5
+yfinance
+tensorflow>=2.9,<2.12
+alpaca-trade-api
+backtrader
+tables>=3.6.0
+numba>=0.55,<0.58
+bottleneck>=1.3.6
