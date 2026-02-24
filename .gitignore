@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Env / secrets
+.env
+*.env
+
+# If you keep a config with keys, do NOT track it:
+py_dt_v2/key/config.py
